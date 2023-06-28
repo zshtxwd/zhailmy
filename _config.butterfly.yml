@@ -906,6 +906,8 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+
+    - <script> var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?144514d78770b475f69cf061ff86fc5e";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
     - <script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script> #引入echarts
     - <script src="https://npm.elemecdn.com/echarts@4.9.0/map/js/china.js"></script> # 绘制地图需要另外添加 china.js
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"> # 常规css
@@ -936,7 +938,7 @@ inject:
     - <canvas id="snow"></canvas> # 雪花画布
     - <script defer src="/js/fomal.js"></script> # 主模块js
     - <script defer data-pjax src="/js/census.js"></script> #引入自定义js文件，百度统计配置
-    - <script async data-pjax src="/js/txmap.js"></script> #引入腾讯位置API
+    # - <script async data-pjax src="/js/txmap.js"></script> #引入腾讯位置API
     # - <script defer data-pjax src="/js/echarts_dn.js"></script> #引入自定义js文件，图表明暗配置
 
 # CDN

@@ -1132,7 +1132,7 @@ function createtime1() {
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2022 By Fomalhaut",
+    "©2022 By zshlmy",
   ];
 
   setTimeout(
