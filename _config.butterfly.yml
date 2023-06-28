@@ -906,6 +906,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+    - <script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script> #引入echarts
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"> # 常规css
     - <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css"> # 引入组件库(f12)
     # 综合美化模块样式引入
@@ -934,6 +935,7 @@ inject:
     - <canvas id="snow"></canvas> # 雪花画布
     - <script defer src="/js/fomal.js"></script> # 主模块js
     - <script async data-pjax src="/js/txmap.js"></script> #引入腾讯位置API
+    - <script defer data-pjax src="/js/echarts_dn.js"></script> #引入自定义js文件，图表明暗配置
 
 # CDN
 # Don't modify the following settings unless you know how they work
