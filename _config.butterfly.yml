@@ -379,7 +379,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: 
+  envId: https://twikoo.zshlmy.love/
   region:
   visitor: false
   option:
@@ -456,7 +456,7 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics: 
+baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
@@ -907,6 +907,7 @@ css_prefix: true
 inject:
   head:
     - <script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script> #引入echarts
+    - <script src="https://npm.elemecdn.com/echarts@4.9.0/map/js/china.js"></script> # 绘制地图需要另外添加 china.js
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"> # 常规css
     - <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css"> # 引入组件库(f12)
     # 综合美化模块样式引入
@@ -934,8 +935,9 @@ inject:
     - <canvas id="universe"></canvas> # 星空画布
     - <canvas id="snow"></canvas> # 雪花画布
     - <script defer src="/js/fomal.js"></script> # 主模块js
+    - <script defer data-pjax src="/js/census.js"></script> #引入自定义js文件，百度统计配置
     - <script async data-pjax src="/js/txmap.js"></script> #引入腾讯位置API
-    - <script defer data-pjax src="/js/echarts_dn.js"></script> #引入自定义js文件，图表明暗配置
+    # - <script defer data-pjax src="/js/echarts_dn.js"></script> #引入自定义js文件，图表明暗配置
 
 # CDN
 # Don't modify the following settings unless you know how they work
@@ -974,7 +976,8 @@ CDN:
     # valine: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/valine/1.4.16/Valine.min.js
     # disqusjs: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqus.js
     # disqusjs_css: https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/disqusjs/1.3.0/disqusjs.css
-    twikoo: https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js
+    # twikoo: https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js
+    twikoo: https://cdn.staticfile.org/twikoo/1.6.16/twikoo.all.min.js
     # waline_js: https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/waline/1.5.4/Waline.min.js
     # waline_css:
     # sharejs: https://lib.baomitu.com/social-share.js/1.0.16/js/social-share.min.js
