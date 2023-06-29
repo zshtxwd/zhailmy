@@ -4,7 +4,7 @@
 
 # Site
 title: 雨打窗前🌧️
-subtitle:
+subtitle: 窗前细雨闻无声，似有悲歌又有情
 description: '和我一起看窗外雨打芭蕉吧🌧️🏡🌧️'
 keywords: '雨打窗前🌧️,雨打窗前,前端,JavaScript,个人博客,个人主页,代码,博客,Butterfly,Hexo'
 author: 雨打窗前🌧️
@@ -178,7 +178,7 @@ swiper:
 # 本地搜索
 search:
   path: search.xml
-  field: post
+  field: all
   content: true
 
 # Extensions
