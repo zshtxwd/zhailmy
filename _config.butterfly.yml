@@ -906,7 +906,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-
+    - <meta name="baidu-site-verification" content="codeva-4lrMFUTX6Q" />
     - <script> var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?144514d78770b475f69cf061ff86fc5e";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
     - <script src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js"></script> #引入echarts
     - <script src="https://npm.elemecdn.com/echarts@4.9.0/map/js/china.js"></script> # 绘制地图需要另外添加 china.js
