@@ -13,6 +13,7 @@ swiper_index: 2
 date: 2023-06-25 18:19:03
 updated: 2023-06-26 22:00:00
 cover: https://imgbed.zshlmy.love/picture/js汽水.jpg
+keyword: 前端八股文,promise,箭头函数,var,let,const,博客,雨打窗前
 ---
 
 ## 【前端八股文】promise,箭头函数,var,let,const
