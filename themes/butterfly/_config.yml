@@ -837,15 +837,15 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-      # - <link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.7/tianli_gpt.css">
-        - <link rel="stylesheet" href="https://imgbed.zshlmy.love/css/tianli_gpt.css">
+      - <link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.10/tianli_gpt.css">
+        # - <link rel="stylesheet" href="https://imgbed.zshlmy.love/css/tianli_gpt.css">
     # - <link rel="stylesheet" href="/css/mouse.css">
     # - <link rel="stylesheet" href="/zan/zan.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
       - <script>let tianliGPT_postSelector = '\#post \#article-container';let tianliGPT_key = '9cwDoWVF9jWpY7bkOLsv';let tianliGPT_wordLimit = 1500;let tianliGPT_postURL = '*/posts/*'</script>
-	    # - <script data-pjax src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.7/tianli_gpt.js"></script>
-      - <script data-pjax src="https://imgbed.zshlmy.love/js/tianli_gpt.js"></script>
+	    - <script data-pjax src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.10/tianli_gpt.js"></script>
+      # - <script data-pjax src="https://imgbed.zshlmy.love/js/tianli_gpt.js"></script>
     # - <script src="https://cdn1.lncld.net/static/js/3.5.0/av-min.js"></script>
     # - <script src="/zan/zan.js"></script>
     # - <script src="xxxx"></script>
