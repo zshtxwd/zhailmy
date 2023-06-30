@@ -1085,7 +1085,7 @@ wowjs:
 envelope_comment:
   enable: true #控制开关
   custom_pic:
-    cover: https://tuchuang.voooe.cn/images/2023/01/02/violet.webp #信笺头部图片
+    cover: https://imgbed.zshlmy.love/picture/雨中城市.jpg #信笺头部图片
     line: https://tuchuang.voooe.cn/images/2023/01/02/line.webp #信笺底部图片
     beforeimg: https://tuchuang.voooe.cn/images/2023/01/02/before.webp # 信封前半部分
     afterimg: https://tuchuang.voooe.cn/images/2023/01/02/after.webp # 信封后半部分
@@ -1094,7 +1094,7 @@ envelope_comment:
     - 或者你有什么改进的建议？
     - 又或者你有什么具体的问题需要咨询？
     - 都可以在下方评论区留言哦~~~
-  bottom: F小站站长亲自为您服务！ #仅支持单行文本
+  bottom: 雨打窗前站长——听雨人亲自为您服务！ #仅支持单行文本
   height: #1050px，信封划出的高度
   path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
   front_matter: #【可选】comments页面的 front_matter 配置
