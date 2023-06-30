@@ -842,8 +842,8 @@ inject:
     # - <link rel="stylesheet" href="/zan/zan.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-      - <script>let tianliGPT_postSelector = '\#post \#article-container';let tianliGPT_key = '9cwDoWVF9jWpY7bkOLsv';</script>
-	    - <script src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.7/tianli_gpt.js"></script>
+      - <script>let tianliGPT_postSelector = '\#post \#article-container';let tianliGPT_key = '9cwDoWVF9jWpY7bkOLsv';let tianliGPT_wordLimit = 1500;let tianliGPT_postURL = '*/posts/*'</script>
+	    - <script data-pjax src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.7/tianli_gpt.js"></script>
     # - <script src="https://cdn1.lncld.net/static/js/3.5.0/av-min.js"></script>
     # - <script src="/zan/zan.js"></script>
     # - <script src="xxxx"></script>
