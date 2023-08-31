@@ -129,7 +129,7 @@ print(myList[3][1]) #world
 
 `len(列表)`统计列表中的元素个数
 
-![image-20230828000709418](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230828000709418.png)
+![image-20230828000709418](https://imgbed.zshlmy.love/Typora/image-20230828000709418.png)
 
 #### 元组Tuple
 
@@ -164,7 +164,7 @@ print(myList[3][1]) #world
 
 只支持**`index`,`len()`,`count()`**，且使用方法**同`list`**
 
-![image-20230828002848175](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230828002848175.png)
+![image-20230828002848175](https://imgbed.zshlmy.love/Typora/image-20230828002848175.png)
 
 #### 字符串String
 
@@ -180,7 +180,7 @@ print(myList[3][1]) #world
 
 ##### 字符串操作
 
-![image-20230831215523354](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230831215523354.png)
+![image-20230831215523354](https://imgbed.zshlmy.love/Typora/image-20230831215523354.png)
 
 #### 序列
 
@@ -225,7 +225,7 @@ test={"string","list","tuple","set","string","set"}
 
 但可以使用**for遍历**
 
-![image-20230831223236393](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230831223236393.png)
+![image-20230831223236393](https://imgbed.zshlmy.love/Typora/image-20230831223236393.png)
 
 #### 字典
 
@@ -272,7 +272,7 @@ dict3={"周杰伦":100,"扁嘴伦":102,"郭艾伦":98}
 
 ##### 字典操作
 
-![image-20230831225922087](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230831225922087.png)
+![image-20230831225922087](https://imgbed.zshlmy.love/Typora/image-20230831225922087.png)
 
 #### 数据容器对比
 
@@ -301,4 +301,4 @@ dict3={"周杰伦":100,"扁嘴伦":102,"郭艾伦":98}
 
 字母的大小取决于他的`ascii`值
 
-![image-20230831232707221](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230831232707221.png)
+![image-20230831232707221](https://imgbed.zshlmy.love/Typora/image-20230831232707221.png)
