@@ -292,6 +292,9 @@ magnet:
     - name: 前端八股文
       display_name: 能者多劳の前端八股文
       icon: 📚
+    - name: python学习日记
+      display_name: 能者多劳のpython学习日记
+      icon: 🐍
   color_setting:
     text_color: black # 文字默认颜色
     text_hover_color: white # 文字鼠标悬浮颜色

@@ -1,6 +1,6 @@
 ---
 title: 【python学习日记】基础语法【二】
-description: 纯前端没活路的，抓紧提升
+description: 🐍挺有意思的编程语言
 mathjax: true
 tags:
   - python

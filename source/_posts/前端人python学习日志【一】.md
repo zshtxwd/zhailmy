@@ -1,6 +1,6 @@
 ---
 title: 【python学习日记】基础语法【一】
-description: 纯前端没活路的，抓紧提升
+description: 🐍纯前端没活路的，抓紧提升
 mathjax: true
 tags:
   - python
