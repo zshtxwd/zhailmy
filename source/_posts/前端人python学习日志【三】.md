@@ -1,5 +1,5 @@
 ---
-title: 【前端人python学习日记】基础语法【二】
+title: 【前端人python学习日记】基础语法【三】
 description: 🐍变强，然后赚很多钱给她更好的
 mathjax: true
 tags:
