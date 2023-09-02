@@ -1,5 +1,5 @@
 ---
-title: 【python学习日记】基础语法【二】
+title: 【前端人python学习日记】基础语法【二】
 description: 🐍挺有意思的编程语言
 mathjax: true
 tags:
@@ -7,8 +7,7 @@ tags:
 categories:
   - python学习日记
 abbrlink: 2023901d
-sticky: 3
-swiper_index: 3
+swiper_index: 2
 date: 2023-09-01 00:39:10
 updated: 2023-09-01 00:39:10
 cover: https://imgbed.zshlmy.love/picture/python.jpeg

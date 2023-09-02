@@ -8,7 +8,6 @@ tags:
 categories:
   - 前端八股文
 abbrlink: 2023716d
-sticky: 2
 swiper_index: 2
 date: 2023-07-16 15:03:03
 updated: 2023-07-16 20:00:00

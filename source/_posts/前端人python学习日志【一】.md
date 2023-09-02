@@ -1,5 +1,5 @@
 ---
-title: 【python学习日记】基础语法【一】
+title: 【前端人python学习日记】基础语法【一】
 description: 🐍纯前端没活路的，抓紧提升
 mathjax: true
 tags:
@@ -7,8 +7,7 @@ tags:
 categories:
   - python学习日记
 abbrlink: 2023826d
-sticky: 1
-swiper_index: 1
+swiper_index: 2
 date: 2023-08-26 20:13:52
 updated: 2023-09-01 00:30:00
 cover: https://imgbed.zshlmy.love/picture/python.jpeg
